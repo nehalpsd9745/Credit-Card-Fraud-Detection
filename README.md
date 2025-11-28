@@ -86,7 +86,7 @@ Fraud detection involves highly imbalanced data, so evaluating multiple metrics 
 ## ▶️ How to Run the Project
 
 1️⃣ Clone this repository  
-```bash
+
 git clone https://github.com/nehalpsd9745/Credit-Card-Fraud-Detection.git
 
 2️⃣ Download the dataset from Kaggle (linked above)
