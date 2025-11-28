@@ -58,7 +58,7 @@ Each model is built and evaluated in a separate Jupyter Notebook.
 ---
 
 ## 📌 Project Structure
-```bash
+
 Credit-Card-Fraud-Detection-Using-Machine-Learning/
 │
 ├── Credit Card Fraud Detection - Decision Tree.ipynb
